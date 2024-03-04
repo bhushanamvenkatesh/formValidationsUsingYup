@@ -6,11 +6,11 @@ function App() {
   return (
     <div className="">
      
-      {/* <FormHook /> */}
+      <FormHook />
       {/* <hr/> */}
       {/* <FormikElement/> */}
       {/* <hr/> */}
-    <FormValidation/>
+    {/* <FormValidation/> */}
 
       
 
